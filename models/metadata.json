@@ -1,0 +1,14 @@
+{
+  "best_features": [
+    "power_low",
+    "kurtosis",
+    "energy",
+    "skewness",
+    "min",
+    "std",
+    "power_mid",
+    "r_peak_amplitude"
+  ],
+  "beat_window_size": 360,
+  "sampling_rate": 360
+}

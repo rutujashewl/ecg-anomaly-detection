@@ -85,5 +85,5 @@ Make sure `models/cnn_model.keras` and `models/metadata.json` ARE committed
 - This is a portfolio/educational project — not a certified medical device.
 - ## 🚀 Live Demo
 
-[Open ECG Anomaly Detection App](https://ecg-anomaly-detection-v23o.onrender.com)
+[Open ECG Anomaly Detection App]( https://ecg-anomaly-detection-2xd7.onrender.com)
 

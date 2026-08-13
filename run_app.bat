@@ -1,6 +1,4 @@
 @echo off
-echo Starting ECG Anomaly Detection App...
 cd /d "%~dp0"
-call venv\Scripts\activate
-streamlit run app.py
-pause
+start http://localhost:8501
+py -3.11 -m streamlit run app.py

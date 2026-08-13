@@ -83,3 +83,7 @@ Make sure `models/cnn_model.keras` and `models/metadata.json` ARE committed
 - Evaluation prioritizes **recall/sensitivity** over raw accuracy, since in a
   medical context, missing an abnormal beat is worse than a false alarm.
 - This is a portfolio/educational project — not a certified medical device.
+- ## 🚀 Live Demo
+
+[Open ECG Anomaly Detection App](https://ecg-anomaly-detection-v23o.onrender.com)
+
